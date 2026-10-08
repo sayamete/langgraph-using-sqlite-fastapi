@@ -1,0 +1,7 @@
+langgraph
+langchain-community
+langchain-groq
+langchain-core
+langgraph-checkpoint-sqlite
+fastapi
+ipykernel
